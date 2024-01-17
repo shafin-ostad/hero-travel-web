@@ -1,0 +1,852 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1080" height="1080" viewBox="0 0 1080 1080" xml:space="preserve">
+<desc>Created with Fabric.js 5.2.4</desc>
+<defs>
+</defs>
+<rect x="0" y="0" width="100%" height="100%" fill="transparent"></rect>
+<g transform="matrix(1 0 0 1 540 540)" id="a9a9a084-f9c6-4d36-82f6-1566718de38f"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1; visibility: hidden;" vector-effect="non-scaling-stroke"  x="-540" y="-540" rx="0" ry="0" width="1080" height="1080" />
+</g>
+<g transform="matrix(1 0 0 1 540 540)" id="ce764cc1-058f-459d-b370-4be4dd5a2af6"  >
+</g>
+<g transform="matrix(16.88 0 0 16.88 540 540)"  >
+<g style=""   >
+		<g transform="matrix(1 0 0 1 0 -2.87)" clip-path="url(#CLIPPATH_70)"  >
+<linearGradient id="SVGID_paint0_linear_8_176_3" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 0 0)"  x1="26.2768" y1="20.2657" x2="34.3689" y2="40.0463">
+<stop offset="0%" style="stop-color:rgb(197,145,145);stop-opacity: 1"/>
+<stop offset="100%" style="stop-color:rgb(155,94,94);stop-opacity: 1"/>
+</linearGradient>
+<clipPath id="CLIPPATH_70" >
+	<rect transform="matrix(1 0 0 1 0 2.87)" id="clip0_8_176" x="-32" y="-32" rx="0" ry="0" width="64" height="64" />
+</clipPath>
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_paint0_linear_8_176_3); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-32, -29.13)" d="M 3.27001 36.8492 L 60.73 36.8492 C 62.456 36.8492 63.6776 35.1641 63.1441 33.5226 C 60.8611 26.4963 54.2607 21.4171 46.4731 21.4171 L 17.5268 21.4171 C 9.73928 21.4171 3.13887 26.4963 0.85583 33.5226 C 0.322371 35.164 1.54402 36.8492 3.27001 36.8492 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 22.88 -2.87)" clip-path="url(#CLIPPATH_71)"  >
+<linearGradient id="SVGID_paint1_linear_8_176_4" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 0 0)"  x1="52.7058" y1="29.1332" x2="48.0202" y2="29.1332">
+<stop offset="0%" style="stop-color:rgb(155,94,94);stop-opacity: 0"/>
+<stop offset="24.69%" style="stop-color:rgb(149,88,87);stop-opacity: 0.247"/>
+<stop offset="61.160000000000004%" style="stop-color:rgb(133,73,67);stop-opacity: 0.612"/>
+<stop offset="100%" style="stop-color:rgb(109,51,38);stop-opacity: 1"/>
+</linearGradient>
+<clipPath id="CLIPPATH_71" >
+	<rect transform="matrix(1 0 0 1 -22.88 2.87)" id="clip0_8_176" x="-32" y="-32" rx="0" ry="0" width="64" height="64" />
+</clipPath>
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_paint1_linear_8_176_4); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-54.88, -29.13)" d="M 46.4975 21.4172 L 46.4975 36.8491 L 60.7299 36.8491 C 62.4559 36.8491 63.6776 35.164 63.1442 33.5225 C 60.8636 26.5035 54.2745 21.4278 46.4975 21.4172 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 0 12.4)" clip-path="url(#CLIPPATH_72)"  >
+<linearGradient id="SVGID_paint2_linear_8_176_5" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 0 0)"  x1="22.7448" y1="28.2516" x2="36.2609" y2="61.2907">
+<stop offset="0%" style="stop-color:rgb(255,253,241);stop-opacity: 1"/>
+<stop offset="100%" style="stop-color:rgb(255,245,198);stop-opacity: 1"/>
+</linearGradient>
+<clipPath id="CLIPPATH_72" >
+	<rect transform="matrix(1 0 0 1 0 -12.4)" id="clip0_8_176" x="-32" y="-32" rx="0" ry="0" width="64" height="64" />
+</clipPath>
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_paint2_linear_8_176_5); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-32, -44.4)" d="M 61.458 64 L 2.54205 64 L 2.54205 40.9341 C 2.54205 32.0233 9.76577 24.7996 18.6766 24.7996 L 45.3235 24.7996 C 54.2344 24.7996 61.4581 32.0233 61.4581 40.9341 L 61.458 64 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 21.98 12.42)" clip-path="url(#CLIPPATH_73)"  >
+<linearGradient id="SVGID_paint3_linear_8_176_6" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 0 0)"  x1="55.7176" y1="44.4213" x2="65.7576" y2="44.4213">
+<stop offset="0%" style="stop-color:rgb(254,166,19);stop-opacity: 0"/>
+<stop offset="18.32%" style="stop-color:rgb(252,155,25);stop-opacity: 0.183"/>
+<stop offset="50.86000000000001%" style="stop-color:rgb(245,125,40);stop-opacity: 0.509"/>
+<stop offset="93.56%" style="stop-color:rgb(235,76,64);stop-opacity: 0.936"/>
+<stop offset="100%" style="stop-color:rgb(233,68,68);stop-opacity: 1"/>
+</linearGradient>
+<clipPath id="CLIPPATH_73" >
+	<rect transform="matrix(1 0 0 1 -21.98 -12.42)" id="clip0_8_176" x="-32" y="-32" rx="0" ry="0" width="64" height="64" />
+</clipPath>
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_paint3_linear_8_176_6); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-53.98, -44.42)" d="M 46.4975 24.8424 L 46.4975 64 L 61.458 64 L 61.458 40.9341 C 61.4579 32.4183 54.8601 25.4439 46.4975 24.8424 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 21.98 12.42)" clip-path="url(#CLIPPATH_74)"  >
+<linearGradient id="SVGID_paint4_linear_8_176_7" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 0 0)"  x1="52.0366" y1="44.4213" x2="48.1873" y2="44.4213">
+<stop offset="0%" style="stop-color:rgb(254,166,19);stop-opacity: 0"/>
+<stop offset="18.32%" style="stop-color:rgb(252,155,25);stop-opacity: 0.183"/>
+<stop offset="50.86000000000001%" style="stop-color:rgb(245,125,40);stop-opacity: 0.509"/>
+<stop offset="93.56%" style="stop-color:rgb(235,76,64);stop-opacity: 0.936"/>
+<stop offset="100%" style="stop-color:rgb(233,68,68);stop-opacity: 1"/>
+</linearGradient>
+<clipPath id="CLIPPATH_74" >
+	<rect transform="matrix(1 0 0 1 -21.98 -12.42)" id="clip0_8_176" x="-32" y="-32" rx="0" ry="0" width="64" height="64" />
+</clipPath>
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_paint4_linear_8_176_7); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-53.98, -44.42)" d="M 46.4975 24.8424 L 46.4975 64 L 61.458 64 L 61.458 40.9341 C 61.4579 32.4183 54.8601 25.4439 46.4975 24.8424 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 21.98 24.43)" clip-path="url(#CLIPPATH_75)"  >
+<linearGradient id="SVGID_paint5_linear_8_176_8" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 0 0)"  x1="53.9777" y1="54.3791" x2="53.9777" y2="49.0086">
+<stop offset="0%" style="stop-color:rgb(254,166,19);stop-opacity: 0"/>
+<stop offset="18.32%" style="stop-color:rgb(252,155,25);stop-opacity: 0.183"/>
+<stop offset="50.86000000000001%" style="stop-color:rgb(245,125,40);stop-opacity: 0.509"/>
+<stop offset="93.56%" style="stop-color:rgb(235,76,64);stop-opacity: 0.936"/>
+<stop offset="100%" style="stop-color:rgb(233,68,68);stop-opacity: 1"/>
+</linearGradient>
+<clipPath id="CLIPPATH_75" >
+	<rect transform="matrix(1 0 0 1 -21.98 -24.43)" id="clip0_8_176" x="-32" y="-32" rx="0" ry="0" width="64" height="64" />
+</clipPath>
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_paint5_linear_8_176_8); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-53.98, -56.43)" d="M 46.4975 48.8575 L 61.458 48.8575 L 61.458 64 L 46.4975 64 L 46.4975 48.8575 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -21.98 24.43)" clip-path="url(#CLIPPATH_76)"  >
+<linearGradient id="SVGID_paint6_linear_8_176_9" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 0 0)"  x1="10.0223" y1="54.3791" x2="10.0223" y2="49.0086">
+<stop offset="0%" style="stop-color:rgb(254,166,19);stop-opacity: 0"/>
+<stop offset="18.32%" style="stop-color:rgb(252,155,25);stop-opacity: 0.183"/>
+<stop offset="50.86000000000001%" style="stop-color:rgb(245,125,40);stop-opacity: 0.509"/>
+<stop offset="93.56%" style="stop-color:rgb(235,76,64);stop-opacity: 0.936"/>
+<stop offset="100%" style="stop-color:rgb(233,68,68);stop-opacity: 1"/>
+</linearGradient>
+<clipPath id="CLIPPATH_76" >
+	<rect transform="matrix(1 0 0 1 21.98 -24.43)" id="clip0_8_176" x="-32" y="-32" rx="0" ry="0" width="64" height="64" />
+</clipPath>
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_paint6_linear_8_176_9); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-10.02, -56.43)" d="M 2.54205 48.8575 L 17.5026 48.8575 L 17.5026 64 L 2.54205 64 L 2.54205 48.8575 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -18.78 12.4)" clip-path="url(#CLIPPATH_77)"  >
+<linearGradient id="SVGID_paint7_linear_8_176_10" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 0 0)"  x1="11.2941" y1="44.4006" x2="19.7439" y2="44.4006">
+<stop offset="0%" style="stop-color:rgb(254,166,19);stop-opacity: 0"/>
+<stop offset="18.32%" style="stop-color:rgb(252,155,25);stop-opacity: 0.183"/>
+<stop offset="50.86000000000001%" style="stop-color:rgb(245,125,40);stop-opacity: 0.509"/>
+<stop offset="93.56%" style="stop-color:rgb(235,76,64);stop-opacity: 0.936"/>
+<stop offset="100%" style="stop-color:rgb(233,68,68);stop-opacity: 1"/>
+</linearGradient>
+<clipPath id="CLIPPATH_77" >
+	<rect transform="matrix(1 0 0 1 18.78 -12.4)" id="clip0_8_176" x="-32" y="-32" rx="0" ry="0" width="64" height="64" />
+</clipPath>
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_paint7_linear_8_176_10); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-13.22, -44.4)" d="M 7.86407 64 L 18.5725 64 L 18.5725 24.801 C 14.4538 24.8271 10.7013 26.3958 7.86407 28.9591 L 7.86407 64 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -22.88 25.44)" clip-path="url(#CLIPPATH_78)"  >
+<linearGradient id="SVGID_paint8_linear_8_176_11" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 0 0)"  x1="6.9678" y1="55.2869" x2="11.1978" y2="59.517">
+<stop offset="0%" style="stop-color:rgb(153,230,252);stop-opacity: 1"/>
+<stop offset="100%" style="stop-color:rgb(1,192,250);stop-opacity: 1"/>
+</linearGradient>
+<clipPath id="CLIPPATH_78" >
+	<rect transform="matrix(1 0 0 1 22.88 -25.44)" id="clip0_8_176" x="-32" y="-32" rx="0" ry="0" width="64" height="64" />
+</clipPath>
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_paint8_linear_8_176_11); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-9.12, -57.44)" d="M 11.1925 61.2021 L 7.05137 61.2021 C 6.11785 61.2021 5.36115 60.4453 5.36115 59.5118 L 5.36115 55.3706 C 5.36115 54.4371 6.11785 53.6804 7.05137 53.6804 L 11.1925 53.6804 C 12.1261 53.6804 12.8828 54.4371 12.8828 55.3706 L 12.8828 59.5118 C 12.8829 60.4453 12.1261 61.2021 11.1925 61.2021 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -22.88 25.44)" clip-path="url(#CLIPPATH_79)"  >
+<linearGradient id="SVGID_paint9_linear_8_176_12" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 0 0)"  x1="7.15214" y1="57.4412" x2="4.47506" y2="57.4412">
+<stop offset="0%" style="stop-color:rgb(1,123,174);stop-opacity: 0"/>
+<stop offset="100%" style="stop-color:rgb(1,123,174);stop-opacity: 1"/>
+</linearGradient>
+<clipPath id="CLIPPATH_79" >
+	<rect transform="matrix(1 0 0 1 22.88 -25.44)" id="clip0_8_176" x="-32" y="-32" rx="0" ry="0" width="64" height="64" />
+</clipPath>
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_paint9_linear_8_176_12); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-9.12, -57.44)" d="M 11.1925 61.2021 L 7.05137 61.2021 C 6.11785 61.2021 5.36115 60.4453 5.36115 59.5118 L 5.36115 55.3706 C 5.36115 54.4371 6.11785 53.6804 7.05137 53.6804 L 11.1925 53.6804 C 12.1261 53.6804 12.8828 54.4371 12.8828 55.3706 L 12.8828 59.5118 C 12.8829 60.4453 12.1261 61.2021 11.1925 61.2021 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -22.88 25.44)" clip-path="url(#CLIPPATH_80)"  >
+<linearGradient id="SVGID_paint10_linear_8_176_13" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 0 0)"  x1="9.12196" y1="55.4714" x2="9.12196" y2="52.7942">
+<stop offset="0%" style="stop-color:rgb(1,123,174);stop-opacity: 0"/>
+<stop offset="100%" style="stop-color:rgb(1,123,174);stop-opacity: 1"/>
+</linearGradient>
+<clipPath id="CLIPPATH_80" >
+	<rect transform="matrix(1 0 0 1 22.88 -25.44)" id="clip0_8_176" x="-32" y="-32" rx="0" ry="0" width="64" height="64" />
+</clipPath>
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_paint10_linear_8_176_13); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-9.12, -57.44)" d="M 5.36115 59.5118 L 5.36115 55.3706 C 5.36115 54.4371 6.11785 53.6804 7.05137 53.6804 L 11.1925 53.6804 C 12.1261 53.6804 12.8828 54.4371 12.8828 55.3706 L 12.8828 59.5118 C 12.8828 60.4453 12.1261 61.2021 11.1925 61.2021 L 7.05137 61.2021 C 6.11785 61.2021 5.36115 60.4453 5.36115 59.5118 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 22.88 25.44)" clip-path="url(#CLIPPATH_81)"  >
+<linearGradient id="SVGID_paint11_linear_8_176_14" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 0 0)"  x1="52.7236" y1="55.2869" x2="56.9536" y2="59.517">
+<stop offset="0%" style="stop-color:rgb(153,230,252);stop-opacity: 1"/>
+<stop offset="100%" style="stop-color:rgb(1,192,250);stop-opacity: 1"/>
+</linearGradient>
+<clipPath id="CLIPPATH_81" >
+	<rect transform="matrix(1 0 0 1 -22.88 -25.44)" id="clip0_8_176" x="-32" y="-32" rx="0" ry="0" width="64" height="64" />
+</clipPath>
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_paint11_linear_8_176_14); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-54.88, -57.44)" d="M 56.9485 61.2021 L 52.8073 61.2021 C 51.8738 61.2021 51.1171 60.4453 51.1171 59.5118 L 51.1171 55.3706 C 51.1171 54.4371 51.8738 53.6804 52.8073 53.6804 L 56.9485 53.6804 C 57.882 53.6804 58.6387 54.4371 58.6387 55.3706 L 58.6387 59.5118 C 58.6387 60.4453 57.882 61.2021 56.9485 61.2021 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 22.88 25.44)" clip-path="url(#CLIPPATH_82)"  >
+<linearGradient id="SVGID_paint12_linear_8_176_15" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 0 0)"  x1="52.908" y1="57.4412" x2="50.2309" y2="57.4412">
+<stop offset="0%" style="stop-color:rgb(1,123,174);stop-opacity: 0"/>
+<stop offset="100%" style="stop-color:rgb(1,123,174);stop-opacity: 1"/>
+</linearGradient>
+<clipPath id="CLIPPATH_82" >
+	<rect transform="matrix(1 0 0 1 -22.88 -25.44)" id="clip0_8_176" x="-32" y="-32" rx="0" ry="0" width="64" height="64" />
+</clipPath>
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_paint12_linear_8_176_15); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-54.88, -57.44)" d="M 56.9485 61.2021 L 52.8073 61.2021 C 51.8738 61.2021 51.1171 60.4453 51.1171 59.5118 L 51.1171 55.3706 C 51.1171 54.4371 51.8738 53.6804 52.8073 53.6804 L 56.9485 53.6804 C 57.882 53.6804 58.6387 54.4371 58.6387 55.3706 L 58.6387 59.5118 C 58.6387 60.4453 57.882 61.2021 56.9485 61.2021 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 22.88 25.44)" clip-path="url(#CLIPPATH_83)"  >
+<linearGradient id="SVGID_paint13_linear_8_176_16" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 0 0)"  x1="54.8779" y1="55.4714" x2="54.8779" y2="52.7942">
+<stop offset="0%" style="stop-color:rgb(1,123,174);stop-opacity: 0"/>
+<stop offset="100%" style="stop-color:rgb(1,123,174);stop-opacity: 1"/>
+</linearGradient>
+<clipPath id="CLIPPATH_83" >
+	<rect transform="matrix(1 0 0 1 -22.88 -25.44)" id="clip0_8_176" x="-32" y="-32" rx="0" ry="0" width="64" height="64" />
+</clipPath>
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_paint13_linear_8_176_16); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-54.88, -57.44)" d="M 51.117 59.5118 L 51.117 55.3706 C 51.117 54.4371 51.8737 53.6804 52.8072 53.6804 L 56.9484 53.6804 C 57.8819 53.6804 58.6386 54.4371 58.6386 55.3706 L 58.6386 59.5118 C 58.6386 60.4453 57.8819 61.2021 56.9484 61.2021 L 52.8072 61.2021 C 51.8738 61.2021 51.117 60.4453 51.117 59.5118 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -13.43 16.15)" clip-path="url(#CLIPPATH_84)"  >
+<linearGradient id="SVGID_paint14_linear_8_176_17" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 0 0)"  x1="8.22049" y1="37.8018" x2="19.2668" y2="48.8481">
+<stop offset="0%" style="stop-color:rgb(197,145,145);stop-opacity: 1"/>
+<stop offset="100%" style="stop-color:rgb(155,94,94);stop-opacity: 1"/>
+</linearGradient>
+<clipPath id="CLIPPATH_84" >
+	<rect transform="matrix(1 0 0 1 13.43 -16.15)" id="clip0_8_176" x="-32" y="-32" rx="0" ry="0" width="64" height="64" />
+</clipPath>
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_paint14_linear_8_176_17); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-18.57, -48.15)" d="M 35.5024 51.1494 L 1.64267 51.1494 C 0.735498 51.1494 0 50.414 0 49.5068 L 0 46.8008 C 0 45.8936 0.735373 45.1581 1.64267 45.1581 L 35.5024 45.1581 C 36.4096 45.1581 37.1451 45.8935 37.1451 46.8008 L 37.1451 49.5068 C 37.1451 50.414 36.4097 51.1494 35.5024 51.1494 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -4.14 16.15)" clip-path="url(#CLIPPATH_85)"  >
+<linearGradient id="SVGID_paint15_linear_8_176_18" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 0 0)"  x1="34.3372" y1="48.1538" x2="37.1234" y2="48.1538">
+<stop offset="0%" style="stop-color:rgb(155,94,94);stop-opacity: 0"/>
+<stop offset="24.69%" style="stop-color:rgb(149,88,87);stop-opacity: 0.247"/>
+<stop offset="61.160000000000004%" style="stop-color:rgb(133,73,67);stop-opacity: 0.612"/>
+<stop offset="100%" style="stop-color:rgb(109,51,38);stop-opacity: 1"/>
+</linearGradient>
+<clipPath id="CLIPPATH_85" >
+	<rect transform="matrix(1 0 0 1 4.14 -16.15)" id="clip0_8_176" x="-32" y="-32" rx="0" ry="0" width="64" height="64" />
+</clipPath>
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_paint15_linear_8_176_18); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-27.86, -48.15)" d="M 35.8561 45.1583 L 18.5726 45.1583 L 18.5726 51.1495 L 35.8561 51.1495 C 36.568 51.1495 37.1451 50.2124 37.1451 49.0564 L 37.1451 47.2516 C 37.1451 46.0954 36.568 45.1583 35.8561 45.1583 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -13.43 17.35)" clip-path="url(#CLIPPATH_86)"  >
+<linearGradient id="SVGID_paint16_linear_8_176_19" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 0 0)"  x1="18.5726" y1="48.2955" x2="18.5726" y2="51.5607">
+<stop offset="0%" style="stop-color:rgb(155,94,94);stop-opacity: 0"/>
+<stop offset="24.69%" style="stop-color:rgb(149,88,87);stop-opacity: 0.247"/>
+<stop offset="61.160000000000004%" style="stop-color:rgb(133,73,67);stop-opacity: 0.612"/>
+<stop offset="100%" style="stop-color:rgb(109,51,38);stop-opacity: 1"/>
+</linearGradient>
+<clipPath id="CLIPPATH_86" >
+	<rect transform="matrix(1 0 0 1 13.43 -17.35)" id="clip0_8_176" x="-32" y="-32" rx="0" ry="0" width="64" height="64" />
+</clipPath>
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_paint16_linear_8_176_19); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-18.57, -49.35)" d="M 0 47.5426 L 0 49.0563 C 0 50.2123 0.57713 51.1494 1.28904 51.1494 L 35.8561 51.1494 C 36.568 51.1494 37.1451 50.2123 37.1451 49.0563 L 37.1451 47.5426 L 0 47.5426 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 13.43 16.15)" clip-path="url(#CLIPPATH_87)"  >
+<linearGradient id="SVGID_paint17_linear_8_176_20" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 0 0)"  x1="35.0753" y1="37.8018" x2="46.1216" y2="48.8481">
+<stop offset="0%" style="stop-color:rgb(197,145,145);stop-opacity: 1"/>
+<stop offset="100%" style="stop-color:rgb(155,94,94);stop-opacity: 1"/>
+</linearGradient>
+<clipPath id="CLIPPATH_87" >
+	<rect transform="matrix(1 0 0 1 -13.43 -16.15)" id="clip0_8_176" x="-32" y="-32" rx="0" ry="0" width="64" height="64" />
+</clipPath>
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_paint17_linear_8_176_20); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-45.43, -48.15)" d="M 62.3573 51.1494 L 28.4975 51.1494 C 27.5904 51.1494 26.8549 50.414 26.8549 49.5068 L 26.8549 46.8008 C 26.8549 45.8936 27.5902 45.1581 28.4975 45.1581 L 62.3573 45.1581 C 63.2645 45.1581 64 45.8935 64 46.8008 L 64 49.5068 C 64 50.414 63.2646 51.1494 62.3573 51.1494 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 22.71 16.15)" clip-path="url(#CLIPPATH_88)"  >
+<linearGradient id="SVGID_paint18_linear_8_176_21" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 0 0)"  x1="61.192" y1="48.1538" x2="63.9782" y2="48.1538">
+<stop offset="0%" style="stop-color:rgb(155,94,94);stop-opacity: 0"/>
+<stop offset="24.69%" style="stop-color:rgb(149,88,87);stop-opacity: 0.247"/>
+<stop offset="61.160000000000004%" style="stop-color:rgb(133,73,67);stop-opacity: 0.612"/>
+<stop offset="100%" style="stop-color:rgb(109,51,38);stop-opacity: 1"/>
+</linearGradient>
+<clipPath id="CLIPPATH_88" >
+	<rect transform="matrix(1 0 0 1 -22.71 -16.15)" id="clip0_8_176" x="-32" y="-32" rx="0" ry="0" width="64" height="64" />
+</clipPath>
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_paint18_linear_8_176_21); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-54.71, -48.15)" d="M 62.7109 45.1583 L 45.4274 45.1583 L 45.4274 51.1495 L 62.7109 51.1495 C 63.4228 51.1495 64 50.2124 64 49.0564 L 64 47.2516 C 64 46.0954 63.4228 45.1583 62.7109 45.1583 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 13.43 17.35)" clip-path="url(#CLIPPATH_89)"  >
+<linearGradient id="SVGID_paint19_linear_8_176_22" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 0 0)"  x1="45.4274" y1="48.2955" x2="45.4274" y2="51.5607">
+<stop offset="0%" style="stop-color:rgb(155,94,94);stop-opacity: 0"/>
+<stop offset="24.69%" style="stop-color:rgb(149,88,87);stop-opacity: 0.247"/>
+<stop offset="61.160000000000004%" style="stop-color:rgb(133,73,67);stop-opacity: 0.612"/>
+<stop offset="100%" style="stop-color:rgb(109,51,38);stop-opacity: 1"/>
+</linearGradient>
+<clipPath id="CLIPPATH_89" >
+	<rect transform="matrix(1 0 0 1 -13.43 -17.35)" id="clip0_8_176" x="-32" y="-32" rx="0" ry="0" width="64" height="64" />
+</clipPath>
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_paint19_linear_8_176_22); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-45.43, -49.35)" d="M 26.8549 47.5426 L 26.8549 49.0563 C 26.8549 50.2123 27.432 51.1494 28.1439 51.1494 L 62.7109 51.1494 C 63.4228 51.1494 64 50.2123 64 49.0563 L 64 47.5426 L 26.8549 47.5426 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -23.29 29.18)" clip-path="url(#CLIPPATH_90)"  >
+<linearGradient id="SVGID_paint20_linear_8_176_23" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 0 0)"  x1="7.73532" y1="58.2865" x2="8.82295" y2="63.9754">
+<stop offset="0%" style="stop-color:rgb(187,236,108);stop-opacity: 1"/>
+<stop offset="100%" style="stop-color:rgb(120,169,31);stop-opacity: 1"/>
+</linearGradient>
+<clipPath id="CLIPPATH_90" >
+	<rect transform="matrix(1 0 0 1 23.29 -29.18)" id="clip0_8_176" x="-32" y="-32" rx="0" ry="0" width="64" height="64" />
+</clipPath>
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_paint20_linear_8_176_23); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-8.71, -61.18)" d="M 16.7784 64 L 0.633581 64 C 0.149816 64 -0.153494 63.4803 0.0805454 63.0568 C 0.626679 62.0682 1.64855 61.3785 2.83807 61.2932 C 2.98238 60.6155 3.31618 59.9705 3.84324 59.4434 C 5.27258 58.0141 7.57407 57.9928 9.03352 59.3732 C 10.1366 58.5274 11.7203 58.6064 12.7292 59.6154 C 13.196 60.0822 13.4621 60.672 13.5323 61.2806 L 14.7258 61.2806 C 15.9492 61.2806 16.9907 62.0625 17.3762 63.1549 C 17.5217 63.5672 17.2156 64 16.7784 64 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 0 1.75)" clip-path="url(#CLIPPATH_91)"  >
+<linearGradient id="SVGID_paint21_linear_8_176_24" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 0 0)"  x1="13.342" y1="25.1618" x2="41.9565" y2="38.3395">
+<stop offset="0%" style="stop-color:rgb(255,253,241);stop-opacity: 1"/>
+<stop offset="100%" style="stop-color:rgb(255,245,198);stop-opacity: 1"/>
+</linearGradient>
+<clipPath id="CLIPPATH_91" >
+	<rect transform="matrix(1 0 0 1 0 -1.75)" id="clip0_8_176" x="-32" y="-32" rx="0" ry="0" width="64" height="64" />
+</clipPath>
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_paint21_linear_8_176_24); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-32, -33.75)" d="M 15.0539 3.50861 L 48.946 3.50861 L 48.946 64 L 15.0539 64 L 15.0539 3.50861 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 0 -20.77)" clip-path="url(#CLIPPATH_92)"  >
+<linearGradient id="SVGID_paint22_linear_8_176_25" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 0 0)"  x1="32" y1="10.6667" x2="32" y2="3.34948">
+<stop offset="0%" style="stop-color:rgb(254,166,19);stop-opacity: 0"/>
+<stop offset="18.32%" style="stop-color:rgb(252,155,25);stop-opacity: 0.183"/>
+<stop offset="50.86000000000001%" style="stop-color:rgb(245,125,40);stop-opacity: 0.509"/>
+<stop offset="93.56%" style="stop-color:rgb(235,76,64);stop-opacity: 0.936"/>
+<stop offset="100%" style="stop-color:rgb(233,68,68);stop-opacity: 1"/>
+</linearGradient>
+<clipPath id="CLIPPATH_92" >
+	<rect transform="matrix(1 0 0 1 0 20.77)" id="clip0_8_176" x="-32" y="-32" rx="0" ry="0" width="64" height="64" />
+</clipPath>
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_paint22_linear_8_176_25); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-32, -11.23)" d="M 15.0539 3.50861 L 48.946 3.50861 L 48.946 18.949 L 15.0539 18.949 L 15.0539 3.50861 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 0 20.57)" clip-path="url(#CLIPPATH_93)"  >
+<linearGradient id="SVGID_paint23_linear_8_176_26" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 0 0)"  x1="32" y1="52.0329" x2="32" y2="45.0053">
+<stop offset="0%" style="stop-color:rgb(254,166,19);stop-opacity: 0"/>
+<stop offset="18.32%" style="stop-color:rgb(252,155,25);stop-opacity: 0.183"/>
+<stop offset="50.86000000000001%" style="stop-color:rgb(245,125,40);stop-opacity: 0.509"/>
+<stop offset="93.56%" style="stop-color:rgb(235,76,64);stop-opacity: 0.936"/>
+<stop offset="100%" style="stop-color:rgb(233,68,68);stop-opacity: 1"/>
+</linearGradient>
+<clipPath id="CLIPPATH_93" >
+	<rect transform="matrix(1 0 0 1 0 -20.57)" id="clip0_8_176" x="-32" y="-32" rx="0" ry="0" width="64" height="64" />
+</clipPath>
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_paint23_linear_8_176_26); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-32, -52.57)" d="M 15.0539 45.1583 L 48.946 45.1583 L 48.946 59.9873 L 15.0539 59.9873 L 15.0539 45.1583 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 0 24.59)" clip-path="url(#CLIPPATH_94)"  >
+<linearGradient id="SVGID_paint24_linear_8_176_27" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 0 0)"  x1="32" y1="59.9843" x2="32" y2="65.3863">
+<stop offset="0%" style="stop-color:rgb(254,166,19);stop-opacity: 0"/>
+<stop offset="18.32%" style="stop-color:rgb(252,155,25);stop-opacity: 0.183"/>
+<stop offset="50.86000000000001%" style="stop-color:rgb(245,125,40);stop-opacity: 0.509"/>
+<stop offset="93.56%" style="stop-color:rgb(235,76,64);stop-opacity: 0.936"/>
+<stop offset="100%" style="stop-color:rgb(233,68,68);stop-opacity: 1"/>
+</linearGradient>
+<clipPath id="CLIPPATH_94" >
+	<rect transform="matrix(1 0 0 1 0 -24.59)" id="clip0_8_176" x="-32" y="-32" rx="0" ry="0" width="64" height="64" />
+</clipPath>
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_paint24_linear_8_176_27); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-32, -56.59)" d="M 15.0539 49.171 L 48.946 49.171 L 48.946 64 L 15.0539 64 L 15.0539 49.171 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 8.47 1.75)" clip-path="url(#CLIPPATH_95)"  >
+<linearGradient id="SVGID_paint25_linear_8_176_28" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 0 0)"  x1="44.8" y1="33.7544" x2="52.2051" y2="33.7544">
+<stop offset="0%" style="stop-color:rgb(254,166,19);stop-opacity: 0"/>
+<stop offset="18.32%" style="stop-color:rgb(252,155,25);stop-opacity: 0.183"/>
+<stop offset="50.86000000000001%" style="stop-color:rgb(245,125,40);stop-opacity: 0.509"/>
+<stop offset="93.56%" style="stop-color:rgb(235,76,64);stop-opacity: 0.936"/>
+<stop offset="100%" style="stop-color:rgb(233,68,68);stop-opacity: 1"/>
+</linearGradient>
+<clipPath id="CLIPPATH_95" >
+	<rect transform="matrix(1 0 0 1 -8.47 -1.75)" id="clip0_8_176" x="-32" y="-32" rx="0" ry="0" width="64" height="64" />
+</clipPath>
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_paint25_linear_8_176_28); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-40.47, -33.75)" d="M 32 3.50861 L 48.9461 3.50861 L 48.9461 64 L 32 64 L 32 3.50861 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -15.05 9.24)" clip-path="url(#CLIPPATH_96)"  >
+<linearGradient id="SVGID_paint26_linear_8_176_29" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 0 0)"  x1="15.7347" y1="41.2424" x2="17.9944" y2="41.2424">
+<stop offset="0%" style="stop-color:rgb(225,211,206);stop-opacity: 1"/>
+<stop offset="100%" style="stop-color:rgb(158,151,151);stop-opacity: 1"/>
+</linearGradient>
+<clipPath id="CLIPPATH_96" >
+	<rect transform="matrix(1 0 0 1 15.05 -9.24)" id="clip0_8_176" x="-32" y="-32" rx="0" ry="0" width="64" height="64" />
+</clipPath>
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_paint26_linear_8_176_29); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-16.95, -41.24)" d="M 17.778 39.3629 L 17.778 43.1217 C 17.778 43.5796 17.4068 43.9508 16.9489 43.9508 C 16.491 43.9508 16.1198 43.5796 16.1198 43.1217 L 16.1198 39.3629 C 16.1198 38.905 16.491 38.5338 16.9489 38.5338 C 17.4068 38.5338 17.778 38.905 17.778 39.3629 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -10.82 9.24)" clip-path="url(#CLIPPATH_97)"  >
+<linearGradient id="SVGID_paint27_linear_8_176_30" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 0 0)"  x1="19.97" y1="41.2424" x2="22.2297" y2="41.2424">
+<stop offset="0%" style="stop-color:rgb(225,211,206);stop-opacity: 1"/>
+<stop offset="100%" style="stop-color:rgb(158,151,151);stop-opacity: 1"/>
+</linearGradient>
+<clipPath id="CLIPPATH_97" >
+	<rect transform="matrix(1 0 0 1 10.82 -9.24)" id="clip0_8_176" x="-32" y="-32" rx="0" ry="0" width="64" height="64" />
+</clipPath>
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_paint27_linear_8_176_30); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-21.18, -41.24)" d="M 22.0133 39.3629 L 22.0133 43.1217 C 22.0133 43.5796 21.6421 43.9508 21.1842 43.9508 C 20.7263 43.9508 20.3551 43.5796 20.3551 43.1217 L 20.3551 39.3629 C 20.3551 38.905 20.7263 38.5338 21.1842 38.5338 C 21.6421 38.5338 22.0133 38.905 22.0133 39.3629 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -5.76 9.89)" clip-path="url(#CLIPPATH_98)"  >
+<linearGradient id="SVGID_paint28_linear_8_176_31" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 0 0)"  x1="25.0222" y1="41.8893" x2="27.2819" y2="41.8893">
+<stop offset="0%" style="stop-color:rgb(225,211,206);stop-opacity: 1"/>
+<stop offset="100%" style="stop-color:rgb(158,151,151);stop-opacity: 1"/>
+</linearGradient>
+<clipPath id="CLIPPATH_98" >
+	<rect transform="matrix(1 0 0 1 5.76 -9.89)" id="clip0_8_176" x="-32" y="-32" rx="0" ry="0" width="64" height="64" />
+</clipPath>
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_paint28_linear_8_176_31); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-26.24, -41.89)" d="M 27.0655 40.4587 L 27.0655 43.3199 C 27.0655 43.6685 26.6943 43.951 26.2363 43.951 C 25.7784 43.951 25.4072 43.6684 25.4072 43.3199 L 25.4072 40.4587 C 25.4072 40.1101 25.7784 39.8276 26.2363 39.8276 C 26.6943 39.8275 27.0655 40.1101 27.0655 40.4587 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 0.81 9.89)" clip-path="url(#CLIPPATH_99)"  >
+<linearGradient id="SVGID_paint29_linear_8_176_32" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 0 0)"  x1="31.5971" y1="41.8893" x2="33.8568" y2="41.8893">
+<stop offset="0%" style="stop-color:rgb(225,211,206);stop-opacity: 1"/>
+<stop offset="100%" style="stop-color:rgb(158,151,151);stop-opacity: 1"/>
+</linearGradient>
+<clipPath id="CLIPPATH_99" >
+	<rect transform="matrix(1 0 0 1 -0.81 -9.89)" id="clip0_8_176" x="-32" y="-32" rx="0" ry="0" width="64" height="64" />
+</clipPath>
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_paint29_linear_8_176_32); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-32.81, -41.89)" d="M 33.6403 40.4587 L 33.6403 43.3199 C 33.6403 43.6685 33.2691 43.951 32.8112 43.951 C 32.3533 43.951 31.9821 43.6684 31.9821 43.3199 L 31.9821 40.4587 C 31.9821 40.1101 32.3533 39.8276 32.8112 39.8276 C 33.2691 39.8275 33.6403 40.1101 33.6403 40.4587 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 7.49 9.89)" clip-path="url(#CLIPPATH_100)"  >
+<linearGradient id="SVGID_paint30_linear_8_176_33" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 0 0)"  x1="38.279" y1="41.8893" x2="40.5387" y2="41.8893">
+<stop offset="0%" style="stop-color:rgb(225,211,206);stop-opacity: 1"/>
+<stop offset="100%" style="stop-color:rgb(158,151,151);stop-opacity: 1"/>
+</linearGradient>
+<clipPath id="CLIPPATH_100" >
+	<rect transform="matrix(1 0 0 1 -7.49 -9.89)" id="clip0_8_176" x="-32" y="-32" rx="0" ry="0" width="64" height="64" />
+</clipPath>
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_paint30_linear_8_176_33); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-39.49, -41.89)" d="M 40.3222 40.4587 L 40.3222 43.3199 C 40.3222 43.6685 39.951 43.951 39.4931 43.951 C 39.0352 43.951 38.664 43.6684 38.664 43.3199 L 38.664 40.4587 C 38.664 40.1101 39.0352 39.8276 39.4931 39.8276 C 39.951 39.8275 40.3222 40.1101 40.3222 40.4587 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 13.67 9.89)" clip-path="url(#CLIPPATH_101)"  >
+<linearGradient id="SVGID_paint31_linear_8_176_34" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 0 0)"  x1="44.4543" y1="41.8893" x2="46.714" y2="41.8893">
+<stop offset="0%" style="stop-color:rgb(225,211,206);stop-opacity: 1"/>
+<stop offset="100%" style="stop-color:rgb(158,151,151);stop-opacity: 1"/>
+</linearGradient>
+<clipPath id="CLIPPATH_101" >
+	<rect transform="matrix(1 0 0 1 -13.67 -9.89)" id="clip0_8_176" x="-32" y="-32" rx="0" ry="0" width="64" height="64" />
+</clipPath>
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_paint31_linear_8_176_34); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-45.67, -41.89)" d="M 46.4975 40.4587 L 46.4975 43.3199 C 46.4975 43.6685 46.1263 43.951 45.6684 43.951 C 45.2105 43.951 44.8393 43.6684 44.8393 43.3199 L 44.8393 40.4587 C 44.8393 40.1101 45.2105 39.8276 45.6684 39.8276 C 46.1263 39.8275 46.4975 40.1101 46.4975 40.4587 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -12.93 4.81)" clip-path="url(#CLIPPATH_102)"  >
+<linearGradient id="SVGID_paint32_linear_8_176_35" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 0 0)"  x1="17.8255" y1="33.977" x2="27.1118" y2="55.0594">
+<stop offset="0%" style="stop-color:rgb(253,128,135);stop-opacity: 1"/>
+<stop offset="100%" style="stop-color:rgb(231,67,53);stop-opacity: 1"/>
+</linearGradient>
+<clipPath id="CLIPPATH_102" >
+	<rect transform="matrix(1 0 0 1 12.93 -4.81)" id="clip0_8_176" x="-32" y="-32" rx="0" ry="0" width="64" height="64" />
+</clipPath>
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_paint32_linear_8_176_35); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-19.07, -36.81)" d="M 21.1876 32.4559 C 20.7227 32.4559 20.2577 32.6228 20.2577 33.0164 L 20.2577 35.9372 L 17.8853 35.9372 L 17.8853 33.0164 C 17.8853 32.6228 17.4204 32.4559 16.9555 32.4559 C 16.4905 32.4559 16.0256 32.6228 16.0256 33.0164 L 16.0256 40.5986 C 16.0256 40.98 16.4905 41.1708 16.9555 41.1708 C 17.4204 41.1708 17.8853 40.98 17.8853 40.5986 L 17.8853 37.3677 L 20.2577 37.3677 L 20.2577 40.5986 C 20.2577 40.98 20.7227 41.1708 21.1876 41.1708 C 21.6526 41.1708 22.1175 40.98 22.1175 40.5986 L 22.1175 33.0164 C 22.1176 32.6228 21.6527 32.4559 21.1876 32.4559 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -5.76 4.85)" clip-path="url(#CLIPPATH_103)"  >
+<linearGradient id="SVGID_paint33_linear_8_176_36" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 0 0)"  x1="23.8092" y1="31.3413" x2="33.0955" y2="52.4237">
+<stop offset="0%" style="stop-color:rgb(253,128,135);stop-opacity: 1"/>
+<stop offset="100%" style="stop-color:rgb(231,67,53);stop-opacity: 1"/>
+</linearGradient>
+<clipPath id="CLIPPATH_103" >
+	<rect transform="matrix(1 0 0 1 5.76 -4.85)" id="clip0_8_176" x="-32" y="-32" rx="0" ry="0" width="64" height="64" />
+</clipPath>
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_paint33_linear_8_176_36); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-26.24, -36.85)" d="M 26.2303 32.4559 C 24.5851 32.4559 23.3095 33.2189 23.3095 35.2695 L 23.3095 38.4288 C 23.3095 40.4794 24.5851 41.2424 26.2303 41.2424 C 27.8755 41.2424 29.163 40.4794 29.163 38.4288 L 29.163 35.2695 C 29.163 33.2189 27.8755 32.4559 26.2303 32.4559 Z M 27.3032 38.4288 C 27.3032 39.2515 26.898 39.6209 26.2303 39.6209 C 25.5626 39.6209 25.1693 39.2515 25.1693 38.4288 L 25.1693 35.2695 C 25.1693 34.4468 25.5627 34.0774 26.2303 34.0774 C 26.8979 34.0774 27.3032 34.4468 27.3032 35.2695 L 27.3032 38.4288 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 0.81 4.81)" clip-path="url(#CLIPPATH_104)"  >
+<linearGradient id="SVGID_paint34_linear_8_176_37" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 0 0)"  x1="30.2399" y1="28.5088" x2="39.5261" y2="49.5911">
+<stop offset="0%" style="stop-color:rgb(253,128,135);stop-opacity: 1"/>
+<stop offset="100%" style="stop-color:rgb(231,67,53);stop-opacity: 1"/>
+</linearGradient>
+<clipPath id="CLIPPATH_104" >
+	<rect transform="matrix(1 0 0 1 -0.81 -4.81)" id="clip0_8_176" x="-32" y="-32" rx="0" ry="0" width="64" height="64" />
+</clipPath>
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_paint34_linear_8_176_37); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-32.81, -36.81)" d="M 35.3862 32.4559 L 30.236 32.4559 C 29.8426 32.4559 29.6757 32.8852 29.6757 33.2786 C 29.6757 33.7317 29.8783 34.1251 30.236 34.1251 L 31.8811 34.1251 L 31.8811 40.5986 C 31.8811 40.98 32.3461 41.1708 32.811 41.1708 C 33.276 41.1708 33.7409 40.98 33.7409 40.5986 L 33.7409 34.1251 L 35.3861 34.1251 C 35.7437 34.1251 35.9464 33.7317 35.9464 33.2786 C 35.9465 32.8852 35.7796 32.4559 35.3862 32.4559 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 7.49 4.81)" clip-path="url(#CLIPPATH_105)"  >
+<linearGradient id="SVGID_paint35_linear_8_176_38" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 0 0)"  x1="34.9122" y1="26.4507" x2="44.1985" y2="47.5331">
+<stop offset="0%" style="stop-color:rgb(253,128,135);stop-opacity: 1"/>
+<stop offset="100%" style="stop-color:rgb(231,67,53);stop-opacity: 1"/>
+</linearGradient>
+<clipPath id="CLIPPATH_105" >
+	<rect transform="matrix(1 0 0 1 -7.49 -4.81)" id="clip0_8_176" x="-32" y="-32" rx="0" ry="0" width="64" height="64" />
+</clipPath>
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_paint35_linear_8_176_38); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-39.49, -36.81)" d="M 41.7403 34.0774 C 42.0981 34.0774 42.3007 33.6959 42.3007 33.2547 C 42.3007 32.8732 42.1338 32.4559 41.7403 32.4559 L 37.4962 32.4559 C 37.091 32.4559 36.6855 32.6468 36.6855 33.0283 L 36.6855 40.5986 C 36.6855 40.98 37.0909 41.1708 37.4962 41.1708 L 41.7403 41.1708 C 42.1338 41.1708 42.3007 40.7536 42.3007 40.3721 C 42.3007 39.931 42.0981 39.5495 41.7403 39.5495 L 38.5453 39.5495 L 38.5453 37.5229 L 40.3335 37.5229 C 40.7271 37.5229 40.8939 37.1414 40.8939 36.8195 C 40.8939 36.438 40.6913 36.0923 40.3335 36.0923 L 38.5453 36.0923 L 38.5453 34.0775 L 41.7403 34.0775 L 41.7403 34.0774 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 13.67 4.81)" clip-path="url(#CLIPPATH_106)"  >
+<linearGradient id="SVGID_paint36_linear_8_176_39" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 0 0)"  x1="38.7753" y1="24.7491" x2="48.0616" y2="45.8314">
+<stop offset="0%" style="stop-color:rgb(253,128,135);stop-opacity: 1"/>
+<stop offset="100%" style="stop-color:rgb(231,67,53);stop-opacity: 1"/>
+</linearGradient>
+<clipPath id="CLIPPATH_106" >
+	<rect transform="matrix(1 0 0 1 -13.67 -4.81)" id="clip0_8_176" x="-32" y="-32" rx="0" ry="0" width="64" height="64" />
+</clipPath>
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_paint36_linear_8_176_39); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-45.67, -36.81)" d="M 47.689 39.5495 L 44.9709 39.5495 L 44.9709 33.0164 C 44.9709 32.6228 44.5059 32.4559 44.041 32.4559 C 43.5761 32.4559 43.1111 32.6228 43.1111 33.0164 L 43.1111 40.5986 C 43.1111 40.98 43.5165 41.1708 43.9218 41.1708 L 47.6891 41.1708 C 48.0469 41.1708 48.2256 40.7655 48.2256 40.3602 C 48.2255 39.9547 48.0468 39.5495 47.689 39.5495 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 0 13.16)" clip-path="url(#CLIPPATH_107)"  >
+<linearGradient id="SVGID_paint37_linear_8_176_40" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 0 0)"  x1="21.6479" y1="34.8062" x2="32.6942" y2="45.8524">
+<stop offset="0%" style="stop-color:rgb(197,145,145);stop-opacity: 1"/>
+<stop offset="100%" style="stop-color:rgb(155,94,94);stop-opacity: 1"/>
+</linearGradient>
+<clipPath id="CLIPPATH_107" >
+	<rect transform="matrix(1 0 0 1 0 -13.16)" id="clip0_8_176" x="-32" y="-32" rx="0" ry="0" width="64" height="64" />
+</clipPath>
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_paint37_linear_8_176_40); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-32, -45.16)" d="M 48.9299 48.1539 L 15.0701 48.1539 C 14.1629 48.1539 13.4274 47.4185 13.4274 46.5112 L 13.4274 43.8053 C 13.4274 42.8981 14.1628 42.1626 15.0701 42.1626 L 48.9299 42.1626 C 49.837 42.1626 50.5725 42.898 50.5725 43.8053 L 50.5725 46.5112 C 50.5725 47.4185 49.8372 48.1539 48.9299 48.1539 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 9.29 13.16)" clip-path="url(#CLIPPATH_108)"  >
+<linearGradient id="SVGID_paint38_linear_8_176_41" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 0 0)"  x1="47.7646" y1="45.1583" x2="50.5508" y2="45.1583">
+<stop offset="0%" style="stop-color:rgb(155,94,94);stop-opacity: 0"/>
+<stop offset="24.69%" style="stop-color:rgb(149,88,87);stop-opacity: 0.247"/>
+<stop offset="61.160000000000004%" style="stop-color:rgb(133,73,67);stop-opacity: 0.612"/>
+<stop offset="100%" style="stop-color:rgb(109,51,38);stop-opacity: 1"/>
+</linearGradient>
+<clipPath id="CLIPPATH_108" >
+	<rect transform="matrix(1 0 0 1 -9.29 -13.16)" id="clip0_8_176" x="-32" y="-32" rx="0" ry="0" width="64" height="64" />
+</clipPath>
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_paint38_linear_8_176_41); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-41.29, -45.16)" d="M 49.2835 42.1626 L 32 42.1626 L 32 48.1539 L 49.2835 48.1539 C 49.9954 48.1539 50.5726 47.2167 50.5726 46.0607 L 50.5726 44.2559 C 50.5726 43.0998 49.9954 42.1626 49.2835 42.1626 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 0 14.35)" clip-path="url(#CLIPPATH_109)"  >
+<linearGradient id="SVGID_paint39_linear_8_176_42" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 0 0)"  x1="32" y1="45.2999" x2="32" y2="48.565">
+<stop offset="0%" style="stop-color:rgb(155,94,94);stop-opacity: 0"/>
+<stop offset="24.69%" style="stop-color:rgb(149,88,87);stop-opacity: 0.247"/>
+<stop offset="61.160000000000004%" style="stop-color:rgb(133,73,67);stop-opacity: 0.612"/>
+<stop offset="100%" style="stop-color:rgb(109,51,38);stop-opacity: 1"/>
+</linearGradient>
+<clipPath id="CLIPPATH_109" >
+	<rect transform="matrix(1 0 0 1 0 -14.35)" id="clip0_8_176" x="-32" y="-32" rx="0" ry="0" width="64" height="64" />
+</clipPath>
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_paint39_linear_8_176_42); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-32, -46.35)" d="M 13.4274 44.5469 L 13.4274 46.0606 C 13.4274 47.2166 14.0046 48.1538 14.7165 48.1538 L 49.2835 48.1538 C 49.9954 48.1538 50.5725 47.2166 50.5725 46.0606 L 50.5725 44.5469 L 13.4274 44.5469 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 0 -29)" clip-path="url(#CLIPPATH_110)"  >
+<linearGradient id="SVGID_paint40_linear_8_176_43" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 0 0)"  x1="21.6479" y1="-7.35649" x2="32.6942" y2="3.68979">
+<stop offset="0%" style="stop-color:rgb(197,145,145);stop-opacity: 1"/>
+<stop offset="100%" style="stop-color:rgb(155,94,94);stop-opacity: 1"/>
+</linearGradient>
+<clipPath id="CLIPPATH_110" >
+	<rect transform="matrix(1 0 0 1 0 29)" id="clip0_8_176" x="-32" y="-32" rx="0" ry="0" width="64" height="64" />
+</clipPath>
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_paint40_linear_8_176_43); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-32, -3)" d="M 48.9299 5.99128 L 15.0701 5.99128 C 14.1629 5.99128 13.4274 5.25591 13.4274 4.34861 L 13.4274 1.64267 C 13.4274 0.735373 14.1628 0 15.0701 0 L 48.9299 0 C 49.8372 0 50.5725 0.735373 50.5725 1.64267 L 50.5725 4.34861 C 50.5725 5.25578 49.8372 5.99128 48.9299 5.99128 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 9.29 -29)" clip-path="url(#CLIPPATH_111)"  >
+<linearGradient id="SVGID_paint41_linear_8_176_44" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 0 0)"  x1="47.7646" y1="2.99558" x2="50.5508" y2="2.99558">
+<stop offset="0%" style="stop-color:rgb(155,94,94);stop-opacity: 0"/>
+<stop offset="24.69%" style="stop-color:rgb(149,88,87);stop-opacity: 0.247"/>
+<stop offset="61.160000000000004%" style="stop-color:rgb(133,73,67);stop-opacity: 0.612"/>
+<stop offset="100%" style="stop-color:rgb(109,51,38);stop-opacity: 1"/>
+</linearGradient>
+<clipPath id="CLIPPATH_111" >
+	<rect transform="matrix(1 0 0 1 -9.29 29)" id="clip0_8_176" x="-32" y="-32" rx="0" ry="0" width="64" height="64" />
+</clipPath>
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_paint41_linear_8_176_44); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-41.29, -3)" d="M 49.2835 0 L 32 0 L 32 5.99128 L 49.2835 5.99128 C 49.9954 5.99128 50.5726 5.05412 50.5726 3.8981 L 50.5726 2.09318 C 50.5726 0.937161 49.9954 0 49.2835 0 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 0 -27.81)" clip-path="url(#CLIPPATH_112)"  >
+<linearGradient id="SVGID_paint42_linear_8_176_45" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 0 0)"  x1="32" y1="3.13728" x2="32" y2="6.40241">
+<stop offset="0%" style="stop-color:rgb(155,94,94);stop-opacity: 0"/>
+<stop offset="24.69%" style="stop-color:rgb(149,88,87);stop-opacity: 0.247"/>
+<stop offset="61.160000000000004%" style="stop-color:rgb(133,73,67);stop-opacity: 0.612"/>
+<stop offset="100%" style="stop-color:rgb(109,51,38);stop-opacity: 1"/>
+</linearGradient>
+<clipPath id="CLIPPATH_112" >
+	<rect transform="matrix(1 0 0 1 0 27.81)" id="clip0_8_176" x="-32" y="-32" rx="0" ry="0" width="64" height="64" />
+</clipPath>
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_paint42_linear_8_176_45); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-32, -4.19)" d="M 13.4274 2.38434 L 13.4274 3.898 C 13.4274 5.05402 14.0046 5.99118 14.7165 5.99118 L 49.2835 5.99118 C 49.9954 5.99118 50.5725 5.05402 50.5725 3.898 L 50.5725 2.38434 L 13.4274 2.38434 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -10.12 -6.82)" clip-path="url(#CLIPPATH_113)"  >
+<linearGradient id="SVGID_paint43_linear_8_176_46" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 0 0)"  x1="19.729" y1="23.0236" x2="23.959" y2="27.2536">
+<stop offset="0%" style="stop-color:rgb(153,230,252);stop-opacity: 1"/>
+<stop offset="100%" style="stop-color:rgb(1,192,250);stop-opacity: 1"/>
+</linearGradient>
+<clipPath id="CLIPPATH_113" >
+	<rect transform="matrix(1 0 0 1 10.12 6.82)" id="clip0_8_176" x="-32" y="-32" rx="0" ry="0" width="64" height="64" />
+</clipPath>
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_paint43_linear_8_176_46); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-21.88, -25.18)" d="M 23.9539 28.9388 L 19.8127 28.9388 C 18.8792 28.9388 18.1225 28.1821 18.1225 27.2486 L 18.1225 23.1074 C 18.1225 22.1739 18.8792 21.4172 19.8127 21.4172 L 23.9539 21.4172 C 24.8874 21.4172 25.6441 22.1739 25.6441 23.1074 L 25.6441 27.2486 C 25.6441 28.182 24.8874 28.9388 23.9539 28.9388 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -10.12 -6.82)" clip-path="url(#CLIPPATH_114)"  >
+<linearGradient id="SVGID_paint44_linear_8_176_47" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 0 0)"  x1="19.9135" y1="25.1779" x2="17.2363" y2="25.1779">
+<stop offset="0%" style="stop-color:rgb(1,123,174);stop-opacity: 0"/>
+<stop offset="100%" style="stop-color:rgb(1,123,174);stop-opacity: 1"/>
+</linearGradient>
+<clipPath id="CLIPPATH_114" >
+	<rect transform="matrix(1 0 0 1 10.12 6.82)" id="clip0_8_176" x="-32" y="-32" rx="0" ry="0" width="64" height="64" />
+</clipPath>
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_paint44_linear_8_176_47); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-21.88, -25.18)" d="M 23.9539 28.9388 L 19.8127 28.9388 C 18.8792 28.9388 18.1225 28.1821 18.1225 27.2486 L 18.1225 23.1074 C 18.1225 22.1739 18.8792 21.4172 19.8127 21.4172 L 23.9539 21.4172 C 24.8874 21.4172 25.6441 22.1739 25.6441 23.1074 L 25.6441 27.2486 C 25.6441 28.182 24.8874 28.9388 23.9539 28.9388 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -10.12 -6.82)" clip-path="url(#CLIPPATH_115)"  >
+<linearGradient id="SVGID_paint45_linear_8_176_48" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 0 0)"  x1="21.8833" y1="23.208" x2="21.8833" y2="20.531">
+<stop offset="0%" style="stop-color:rgb(1,123,174);stop-opacity: 0"/>
+<stop offset="100%" style="stop-color:rgb(1,123,174);stop-opacity: 1"/>
+</linearGradient>
+<clipPath id="CLIPPATH_115" >
+	<rect transform="matrix(1 0 0 1 10.12 6.82)" id="clip0_8_176" x="-32" y="-32" rx="0" ry="0" width="64" height="64" />
+</clipPath>
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_paint45_linear_8_176_48); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-21.88, -25.18)" d="M 18.1224 27.2485 L 18.1224 23.1073 C 18.1224 22.1738 18.8791 21.4171 19.8126 21.4171 L 23.9538 21.4171 C 24.8873 21.4171 25.644 22.1738 25.644 23.1073 L 25.644 27.2485 C 25.644 28.182 24.8873 28.9387 23.9538 28.9387 L 19.8126 28.9387 C 18.8792 28.9388 18.1224 28.182 18.1224 27.2485 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 0 -6.82)" clip-path="url(#CLIPPATH_116)"  >
+<linearGradient id="SVGID_paint46_linear_8_176_49" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 0 0)"  x1="29.8457" y1="23.0236" x2="34.0757" y2="27.2536">
+<stop offset="0%" style="stop-color:rgb(153,230,252);stop-opacity: 1"/>
+<stop offset="100%" style="stop-color:rgb(1,192,250);stop-opacity: 1"/>
+</linearGradient>
+<clipPath id="CLIPPATH_116" >
+	<rect transform="matrix(1 0 0 1 0 6.82)" id="clip0_8_176" x="-32" y="-32" rx="0" ry="0" width="64" height="64" />
+</clipPath>
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_paint46_linear_8_176_49); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-32, -25.18)" d="M 34.0705 28.9388 L 29.9294 28.9388 C 28.9958 28.9388 28.2391 28.1821 28.2391 27.2486 L 28.2391 23.1074 C 28.2391 22.1739 28.9958 21.4172 29.9294 21.4172 L 34.0705 21.4172 C 35.0041 21.4172 35.7608 22.1739 35.7608 23.1074 L 35.7608 27.2486 C 35.7608 28.182 35.0041 28.9388 34.0705 28.9388 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 0 -6.82)" clip-path="url(#CLIPPATH_117)"  >
+<linearGradient id="SVGID_paint47_linear_8_176_50" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 0 0)"  x1="30.0301" y1="25.1779" x2="27.353" y2="25.1779">
+<stop offset="0%" style="stop-color:rgb(1,123,174);stop-opacity: 0"/>
+<stop offset="100%" style="stop-color:rgb(1,123,174);stop-opacity: 1"/>
+</linearGradient>
+<clipPath id="CLIPPATH_117" >
+	<rect transform="matrix(1 0 0 1 0 6.82)" id="clip0_8_176" x="-32" y="-32" rx="0" ry="0" width="64" height="64" />
+</clipPath>
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_paint47_linear_8_176_50); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-32, -25.18)" d="M 34.0705 28.9388 L 29.9294 28.9388 C 28.9958 28.9388 28.2391 28.1821 28.2391 27.2486 L 28.2391 23.1074 C 28.2391 22.1739 28.9958 21.4172 29.9294 21.4172 L 34.0705 21.4172 C 35.0041 21.4172 35.7608 22.1739 35.7608 23.1074 L 35.7608 27.2486 C 35.7608 28.182 35.0041 28.9388 34.0705 28.9388 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 0 -6.82)" clip-path="url(#CLIPPATH_118)"  >
+<linearGradient id="SVGID_paint48_linear_8_176_51" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 0 0)"  x1="32" y1="23.208" x2="32" y2="20.531">
+<stop offset="0%" style="stop-color:rgb(1,123,174);stop-opacity: 0"/>
+<stop offset="100%" style="stop-color:rgb(1,123,174);stop-opacity: 1"/>
+</linearGradient>
+<clipPath id="CLIPPATH_118" >
+	<rect transform="matrix(1 0 0 1 0 6.82)" id="clip0_8_176" x="-32" y="-32" rx="0" ry="0" width="64" height="64" />
+</clipPath>
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_paint48_linear_8_176_51); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-32, -25.18)" d="M 28.2391 27.2485 L 28.2391 23.1073 C 28.2391 22.1738 28.9958 21.4171 29.9294 21.4171 L 34.0705 21.4171 C 35.0041 21.4171 35.7608 22.1738 35.7608 23.1073 L 35.7608 27.2485 C 35.7608 28.182 35.0041 28.9387 34.0705 28.9387 L 29.9294 28.9387 C 28.9958 28.9388 28.2391 28.182 28.2391 27.2485 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 10.12 -6.82)" clip-path="url(#CLIPPATH_119)"  >
+<linearGradient id="SVGID_paint49_linear_8_176_52" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 0 0)"  x1="39.9624" y1="23.0236" x2="44.1923" y2="27.2536">
+<stop offset="0%" style="stop-color:rgb(153,230,252);stop-opacity: 1"/>
+<stop offset="100%" style="stop-color:rgb(1,192,250);stop-opacity: 1"/>
+</linearGradient>
+<clipPath id="CLIPPATH_119" >
+	<rect transform="matrix(1 0 0 1 -10.12 6.82)" id="clip0_8_176" x="-32" y="-32" rx="0" ry="0" width="64" height="64" />
+</clipPath>
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_paint49_linear_8_176_52); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-42.12, -25.18)" d="M 44.1872 28.9388 L 40.046 28.9388 C 39.1125 28.9388 38.3558 28.1821 38.3558 27.2486 L 38.3558 23.1074 C 38.3558 22.1739 39.1125 21.4172 40.046 21.4172 L 44.1872 21.4172 C 45.1207 21.4172 45.8774 22.1739 45.8774 23.1074 L 45.8774 27.2486 C 45.8775 28.182 45.1207 28.9388 44.1872 28.9388 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 10.12 -6.82)" clip-path="url(#CLIPPATH_120)"  >
+<linearGradient id="SVGID_paint50_linear_8_176_53" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 0 0)"  x1="40.1468" y1="25.1779" x2="37.4697" y2="25.1779">
+<stop offset="0%" style="stop-color:rgb(1,123,174);stop-opacity: 0"/>
+<stop offset="100%" style="stop-color:rgb(1,123,174);stop-opacity: 1"/>
+</linearGradient>
+<clipPath id="CLIPPATH_120" >
+	<rect transform="matrix(1 0 0 1 -10.12 6.82)" id="clip0_8_176" x="-32" y="-32" rx="0" ry="0" width="64" height="64" />
+</clipPath>
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_paint50_linear_8_176_53); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-42.12, -25.18)" d="M 44.1872 28.9388 L 40.046 28.9388 C 39.1125 28.9388 38.3558 28.1821 38.3558 27.2486 L 38.3558 23.1074 C 38.3558 22.1739 39.1125 21.4172 40.046 21.4172 L 44.1872 21.4172 C 45.1207 21.4172 45.8774 22.1739 45.8774 23.1074 L 45.8774 27.2486 C 45.8775 28.182 45.1207 28.9388 44.1872 28.9388 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 10.12 -6.82)" clip-path="url(#CLIPPATH_121)"  >
+<linearGradient id="SVGID_paint51_linear_8_176_54" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 0 0)"  x1="42.1166" y1="23.208" x2="42.1166" y2="20.531">
+<stop offset="0%" style="stop-color:rgb(1,123,174);stop-opacity: 0"/>
+<stop offset="100%" style="stop-color:rgb(1,123,174);stop-opacity: 1"/>
+</linearGradient>
+<clipPath id="CLIPPATH_121" >
+	<rect transform="matrix(1 0 0 1 -10.12 6.82)" id="clip0_8_176" x="-32" y="-32" rx="0" ry="0" width="64" height="64" />
+</clipPath>
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_paint51_linear_8_176_54); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-42.12, -25.18)" d="M 38.3558 27.2485 L 38.3558 23.1073 C 38.3558 22.1738 39.1125 21.4171 40.046 21.4171 L 44.1872 21.4171 C 45.1207 21.4171 45.8774 22.1738 45.8774 23.1073 L 45.8774 27.2485 C 45.8774 28.182 45.1207 28.9387 44.1872 28.9387 L 40.046 28.9387 C 39.1125 28.9388 38.3558 28.182 38.3558 27.2485 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -10.12 -18.45)" clip-path="url(#CLIPPATH_122)"  >
+<linearGradient id="SVGID_paint52_linear_8_176_55" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 0 0)"  x1="19.729" y1="11.3949" x2="23.959" y2="15.6249">
+<stop offset="0%" style="stop-color:rgb(153,230,252);stop-opacity: 1"/>
+<stop offset="100%" style="stop-color:rgb(1,192,250);stop-opacity: 1"/>
+</linearGradient>
+<clipPath id="CLIPPATH_122" >
+	<rect transform="matrix(1 0 0 1 10.12 18.45)" id="clip0_8_176" x="-32" y="-32" rx="0" ry="0" width="64" height="64" />
+</clipPath>
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_paint52_linear_8_176_55); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-21.88, -13.55)" d="M 23.9539 17.31 L 19.8127 17.31 C 18.8792 17.31 18.1225 16.5533 18.1225 15.6197 L 18.1225 11.4786 C 18.1225 10.545 18.8792 9.78833 19.8127 9.78833 L 23.9539 9.78833 C 24.8874 9.78833 25.6441 10.545 25.6441 11.4786 L 25.6441 15.6197 C 25.6441 16.5531 24.8874 17.31 23.9539 17.31 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -10.12 -18.45)" clip-path="url(#CLIPPATH_123)"  >
+<linearGradient id="SVGID_paint53_linear_8_176_56" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 0 0)"  x1="19.9135" y1="13.549" x2="17.2363" y2="13.549">
+<stop offset="0%" style="stop-color:rgb(1,123,174);stop-opacity: 0"/>
+<stop offset="100%" style="stop-color:rgb(1,123,174);stop-opacity: 1"/>
+</linearGradient>
+<clipPath id="CLIPPATH_123" >
+	<rect transform="matrix(1 0 0 1 10.12 18.45)" id="clip0_8_176" x="-32" y="-32" rx="0" ry="0" width="64" height="64" />
+</clipPath>
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_paint53_linear_8_176_56); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-21.88, -13.55)" d="M 23.9539 17.31 L 19.8127 17.31 C 18.8792 17.31 18.1225 16.5533 18.1225 15.6197 L 18.1225 11.4786 C 18.1225 10.545 18.8792 9.78833 19.8127 9.78833 L 23.9539 9.78833 C 24.8874 9.78833 25.6441 10.545 25.6441 11.4786 L 25.6441 15.6197 C 25.6441 16.5531 24.8874 17.31 23.9539 17.31 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -10.12 -18.45)" clip-path="url(#CLIPPATH_124)"  >
+<linearGradient id="SVGID_paint54_linear_8_176_57" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 0 0)"  x1="21.8833" y1="11.5792" x2="21.8833" y2="8.90212">
+<stop offset="0%" style="stop-color:rgb(1,123,174);stop-opacity: 0"/>
+<stop offset="100%" style="stop-color:rgb(1,123,174);stop-opacity: 1"/>
+</linearGradient>
+<clipPath id="CLIPPATH_124" >
+	<rect transform="matrix(1 0 0 1 10.12 18.45)" id="clip0_8_176" x="-32" y="-32" rx="0" ry="0" width="64" height="64" />
+</clipPath>
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_paint54_linear_8_176_57); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-21.88, -13.55)" d="M 18.1224 15.6196 L 18.1224 11.4784 C 18.1224 10.5449 18.8791 9.78821 19.8126 9.78821 L 23.9538 9.78821 C 24.8873 9.78821 25.644 10.5449 25.644 11.4784 L 25.644 15.6196 C 25.644 16.5531 24.8873 17.3098 23.9538 17.3098 L 19.8126 17.3098 C 18.8792 17.31 18.1224 16.5531 18.1224 15.6196 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 0 -18.45)" clip-path="url(#CLIPPATH_125)"  >
+<linearGradient id="SVGID_paint55_linear_8_176_58" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 0 0)"  x1="29.8457" y1="11.3949" x2="34.0757" y2="15.6249">
+<stop offset="0%" style="stop-color:rgb(153,230,252);stop-opacity: 1"/>
+<stop offset="100%" style="stop-color:rgb(1,192,250);stop-opacity: 1"/>
+</linearGradient>
+<clipPath id="CLIPPATH_125" >
+	<rect transform="matrix(1 0 0 1 0 18.45)" id="clip0_8_176" x="-32" y="-32" rx="0" ry="0" width="64" height="64" />
+</clipPath>
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_paint55_linear_8_176_58); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-32, -13.55)" d="M 34.0705 17.31 L 29.9294 17.31 C 28.9958 17.31 28.2391 16.5533 28.2391 15.6197 L 28.2391 11.4786 C 28.2391 10.545 28.9958 9.78833 29.9294 9.78833 L 34.0705 9.78833 C 35.0041 9.78833 35.7608 10.545 35.7608 11.4786 L 35.7608 15.6197 C 35.7608 16.5531 35.0041 17.31 34.0705 17.31 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 0 -18.45)" clip-path="url(#CLIPPATH_126)"  >
+<linearGradient id="SVGID_paint56_linear_8_176_59" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 0 0)"  x1="30.0301" y1="13.549" x2="27.353" y2="13.549">
+<stop offset="0%" style="stop-color:rgb(1,123,174);stop-opacity: 0"/>
+<stop offset="100%" style="stop-color:rgb(1,123,174);stop-opacity: 1"/>
+</linearGradient>
+<clipPath id="CLIPPATH_126" >
+	<rect transform="matrix(1 0 0 1 0 18.45)" id="clip0_8_176" x="-32" y="-32" rx="0" ry="0" width="64" height="64" />
+</clipPath>
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_paint56_linear_8_176_59); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-32, -13.55)" d="M 34.0705 17.31 L 29.9294 17.31 C 28.9958 17.31 28.2391 16.5533 28.2391 15.6197 L 28.2391 11.4786 C 28.2391 10.545 28.9958 9.78833 29.9294 9.78833 L 34.0705 9.78833 C 35.0041 9.78833 35.7608 10.545 35.7608 11.4786 L 35.7608 15.6197 C 35.7608 16.5531 35.0041 17.31 34.0705 17.31 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 0 -18.45)" clip-path="url(#CLIPPATH_127)"  >
+<linearGradient id="SVGID_paint57_linear_8_176_60" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 0 0)"  x1="32" y1="11.5792" x2="32" y2="8.90212">
+<stop offset="0%" style="stop-color:rgb(1,123,174);stop-opacity: 0"/>
+<stop offset="100%" style="stop-color:rgb(1,123,174);stop-opacity: 1"/>
+</linearGradient>
+<clipPath id="CLIPPATH_127" >
+	<rect transform="matrix(1 0 0 1 0 18.45)" id="clip0_8_176" x="-32" y="-32" rx="0" ry="0" width="64" height="64" />
+</clipPath>
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_paint57_linear_8_176_60); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-32, -13.55)" d="M 28.2391 15.6196 L 28.2391 11.4784 C 28.2391 10.5449 28.9958 9.78821 29.9294 9.78821 L 34.0705 9.78821 C 35.0041 9.78821 35.7608 10.5449 35.7608 11.4784 L 35.7608 15.6196 C 35.7608 16.5531 35.0041 17.3098 34.0705 17.3098 L 29.9294 17.3098 C 28.9958 17.31 28.2391 16.5531 28.2391 15.6196 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 10.12 -18.45)" clip-path="url(#CLIPPATH_128)"  >
+<linearGradient id="SVGID_paint58_linear_8_176_61" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 0 0)"  x1="39.9624" y1="11.3949" x2="44.1923" y2="15.6249">
+<stop offset="0%" style="stop-color:rgb(153,230,252);stop-opacity: 1"/>
+<stop offset="100%" style="stop-color:rgb(1,192,250);stop-opacity: 1"/>
+</linearGradient>
+<clipPath id="CLIPPATH_128" >
+	<rect transform="matrix(1 0 0 1 -10.12 18.45)" id="clip0_8_176" x="-32" y="-32" rx="0" ry="0" width="64" height="64" />
+</clipPath>
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_paint58_linear_8_176_61); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-42.12, -13.55)" d="M 44.1872 17.31 L 40.046 17.31 C 39.1125 17.31 38.3558 16.5533 38.3558 15.6197 L 38.3558 11.4786 C 38.3558 10.545 39.1125 9.78833 40.046 9.78833 L 44.1872 9.78833 C 45.1207 9.78833 45.8774 10.545 45.8774 11.4786 L 45.8774 15.6197 C 45.8775 16.5531 45.1207 17.31 44.1872 17.31 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 10.12 -18.45)" clip-path="url(#CLIPPATH_129)"  >
+<linearGradient id="SVGID_paint59_linear_8_176_62" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 0 0)"  x1="40.1468" y1="13.549" x2="37.4697" y2="13.549">
+<stop offset="0%" style="stop-color:rgb(1,123,174);stop-opacity: 0"/>
+<stop offset="100%" style="stop-color:rgb(1,123,174);stop-opacity: 1"/>
+</linearGradient>
+<clipPath id="CLIPPATH_129" >
+	<rect transform="matrix(1 0 0 1 -10.12 18.45)" id="clip0_8_176" x="-32" y="-32" rx="0" ry="0" width="64" height="64" />
+</clipPath>
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_paint59_linear_8_176_62); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-42.12, -13.55)" d="M 44.1872 17.31 L 40.046 17.31 C 39.1125 17.31 38.3558 16.5533 38.3558 15.6197 L 38.3558 11.4786 C 38.3558 10.545 39.1125 9.78833 40.046 9.78833 L 44.1872 9.78833 C 45.1207 9.78833 45.8774 10.545 45.8774 11.4786 L 45.8774 15.6197 C 45.8775 16.5531 45.1207 17.31 44.1872 17.31 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 10.12 -18.45)" clip-path="url(#CLIPPATH_130)"  >
+<linearGradient id="SVGID_paint60_linear_8_176_63" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 0 0)"  x1="42.1166" y1="11.5792" x2="42.1166" y2="8.90212">
+<stop offset="0%" style="stop-color:rgb(1,123,174);stop-opacity: 0"/>
+<stop offset="100%" style="stop-color:rgb(1,123,174);stop-opacity: 1"/>
+</linearGradient>
+<clipPath id="CLIPPATH_130" >
+	<rect transform="matrix(1 0 0 1 -10.12 18.45)" id="clip0_8_176" x="-32" y="-32" rx="0" ry="0" width="64" height="64" />
+</clipPath>
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_paint60_linear_8_176_63); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-42.12, -13.55)" d="M 38.3558 15.6196 L 38.3558 11.4784 C 38.3558 10.5449 39.1125 9.78821 40.046 9.78821 L 44.1872 9.78821 C 45.1207 9.78821 45.8774 10.5449 45.8774 11.4784 L 45.8774 15.6196 C 45.8774 16.5531 45.1207 17.3098 44.1872 17.3098 L 40.046 17.3098 C 39.1125 17.31 38.3558 16.5531 38.3558 15.6196 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 0 25.44)" clip-path="url(#CLIPPATH_131)"  >
+<linearGradient id="SVGID_paint61_linear_8_176_64" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 0 0)"  x1="27.8681" y1="53.8044" x2="35.9814" y2="61.9177">
+<stop offset="0%" style="stop-color:rgb(153,230,252);stop-opacity: 1"/>
+<stop offset="100%" style="stop-color:rgb(1,192,250);stop-opacity: 1"/>
+</linearGradient>
+<clipPath id="CLIPPATH_131" >
+	<rect transform="matrix(1 0 0 1 0 -25.44)" id="clip0_8_176" x="-32" y="-32" rx="0" ry="0" width="64" height="64" />
+</clipPath>
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_paint61_linear_8_176_64); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-32, -57.44)" d="M 38.4641 64 L 25.5358 64 L 25.5358 52.5727 C 25.5358 51.6392 26.2925 50.8825 27.2261 50.8825 L 36.7737 50.8825 C 37.7072 50.8825 38.464 51.6392 38.464 52.5727 L 38.4641 64 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 0 25.44)" clip-path="url(#CLIPPATH_132)"  >
+<linearGradient id="SVGID_paint62_linear_8_176_65" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 0 0)"  x1="28.6142" y1="57.4413" x2="24.0128" y2="57.4413">
+<stop offset="0%" style="stop-color:rgb(1,123,174);stop-opacity: 0"/>
+<stop offset="100%" style="stop-color:rgb(1,123,174);stop-opacity: 1"/>
+</linearGradient>
+<clipPath id="CLIPPATH_132" >
+	<rect transform="matrix(1 0 0 1 0 -25.44)" id="clip0_8_176" x="-32" y="-32" rx="0" ry="0" width="64" height="64" />
+</clipPath>
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_paint62_linear_8_176_65); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-32, -57.44)" d="M 38.4641 64 L 25.5358 64 L 25.5358 52.5727 C 25.5358 51.6392 26.2925 50.8825 27.2261 50.8825 L 36.7737 50.8825 C 37.7072 50.8825 38.464 51.6392 38.464 52.5727 L 38.4641 64 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 0 25.44)" clip-path="url(#CLIPPATH_133)"  >
+<linearGradient id="SVGID_paint63_linear_8_176_66" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 0 0)"  x1="32" y1="54.006" x2="32" y2="49.3372">
+<stop offset="0%" style="stop-color:rgb(1,123,174);stop-opacity: 0"/>
+<stop offset="100%" style="stop-color:rgb(1,123,174);stop-opacity: 1"/>
+</linearGradient>
+<clipPath id="CLIPPATH_133" >
+	<rect transform="matrix(1 0 0 1 0 -25.44)" id="clip0_8_176" x="-32" y="-32" rx="0" ry="0" width="64" height="64" />
+</clipPath>
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_paint63_linear_8_176_66); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-32, -57.44)" d="M 25.5358 64 L 25.5358 52.5727 C 25.5358 51.6392 26.2925 50.8825 27.2261 50.8825 L 36.7737 50.8825 C 37.7072 50.8825 38.464 51.6392 38.464 52.5727 L 38.464 64 L 25.5358 64 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 3.23 25.44)" clip-path="url(#CLIPPATH_134)"  >
+<linearGradient id="SVGID_paint64_linear_8_176_67" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 0 0)"  x1="33.5391" y1="57.4413" x2="31.2385" y2="57.4413">
+<stop offset="0%" style="stop-color:rgb(1,123,174);stop-opacity: 0"/>
+<stop offset="100%" style="stop-color:rgb(1,123,174);stop-opacity: 1"/>
+</linearGradient>
+<clipPath id="CLIPPATH_134" >
+	<rect transform="matrix(1 0 0 1 -3.23 -25.44)" id="clip0_8_176" x="-32" y="-32" rx="0" ry="0" width="64" height="64" />
+</clipPath>
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_paint64_linear_8_176_67); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-35.23, -57.44)" d="M 36.7738 50.8825 L 31.9999 50.8825 L 31.9999 64 L 38.4641 64 L 38.4641 52.5727 C 38.4641 51.6392 37.7074 50.8825 36.7738 50.8825 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 18.57 29.38)" clip-path="url(#CLIPPATH_135)"  >
+<linearGradient id="SVGID_paint65_linear_8_176_68" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 0 0)"  x1="49.7214" y1="59.3275" x2="50.7567" y2="64.755">
+<stop offset="0%" style="stop-color:rgb(187,236,108);stop-opacity: 1"/>
+<stop offset="100%" style="stop-color:rgb(120,169,31);stop-opacity: 1"/>
+</linearGradient>
+<clipPath id="CLIPPATH_135" >
+	<rect transform="matrix(1 0 0 1 -18.57 -29.38)" id="clip0_8_176" x="-32" y="-32" rx="0" ry="0" width="64" height="64" />
+</clipPath>
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_paint65_linear_8_176_68); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-50.57, -61.38)" d="M 55.0246 62.4008 C 55.0221 60.3943 53.3949 58.7671 51.3877 58.7671 C 49.6198 58.7671 48.1472 60.029 47.819 61.7007 C 47.5615 61.5987 47.281 61.5411 46.9873 61.5411 C 45.745 61.5411 44.7372 62.5489 44.7372 63.7911 L 44.7372 63.7925 C 44.7373 63.9082 44.834 64 44.949 64 L 56.1956 64 C 56.3353 64 56.4359 63.8674 56.4006 63.7322 C 56.2282 63.0698 55.6959 62.552 55.0246 62.4008 Z" stroke-linecap="round" />
+</g>
+</g>
+</g>
+<g transform="matrix(16.88 0 0 16.88 540 540)"  >
+<g style=""   >
+		<g transform="matrix(1 0 0 1 0 7.79)" clip-path="url(#CLIPPATH_136)"  >
+<clipPath id="CLIPPATH_136" >
+	<rect transform="matrix(1 0 0 1 0 -7.79)" id="clip0_8_532" x="-32" y="-32" rx="0" ry="0" width="64" height="64" />
+</clipPath>
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(243,243,243); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-32, -39.79)" d="M 63.5 64 L 0.5 64 C 0.223875 64 0 63.7761 0 63.5 L 0 16.0815 C 0 15.8054 0.223875 15.5815 0.5 15.5815 L 63.5 15.5815 C 63.7761 15.5815 64 15.8054 64 16.0815 L 64 63.5 C 64 63.7761 63.7761 64 63.5 64 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 30.07 7.79)" clip-path="url(#CLIPPATH_137)"  >
+<clipPath id="CLIPPATH_137" >
+	<rect transform="matrix(1 0 0 1 -30.07 -7.79)" id="clip0_8_532" x="-32" y="-32" rx="0" ry="0" width="64" height="64" />
+</clipPath>
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(228,228,228); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-62.07, -39.79)" d="M 60.1369 15.5815 L 60.1369 64 L 63.5 64 C 63.7761 64 64 63.7761 64 63.5 L 64 16.0815 C 64 15.8054 63.7761 15.5815 63.5 15.5815 L 60.1369 15.5815 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 0 7.79)" clip-path="url(#CLIPPATH_138)"  >
+<clipPath id="CLIPPATH_138" >
+	<rect transform="matrix(1 0 0 1 0 -7.79)" id="clip0_8_532" x="-32" y="-32" rx="0" ry="0" width="64" height="64" />
+</clipPath>
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(41,206,246); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-32, -39.79)" d="M 3.86312 59.6369 L 3.86312 19.9446 C 3.86312 19.6685 4.087 19.4446 4.36312 19.4446 L 59.6367 19.4446 C 59.9129 19.4446 60.1367 19.6685 60.1367 19.9446 L 60.1367 59.6368 C 60.1367 59.9129 59.9129 60.1368 59.6367 60.1368 L 4.36312 60.1368 C 4.087 60.1369 3.86312 59.913 3.86312 59.6369 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 26.21 7.79)" clip-path="url(#CLIPPATH_139)"  >
+<clipPath id="CLIPPATH_139" >
+	<rect transform="matrix(1 0 0 1 -26.21 -7.79)" id="clip0_8_532" x="-32" y="-32" rx="0" ry="0" width="64" height="64" />
+</clipPath>
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(34,181,237); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-58.21, -39.79)" d="M 56.2736 19.4446 L 56.2736 60.1368 L 59.6367 60.1368 C 59.9129 60.1368 60.1367 59.9129 60.1367 59.6368 L 60.1367 19.9446 C 60.1367 19.6685 59.9129 19.4446 59.6367 19.4446 L 56.2736 19.4446 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 0 12.43)" clip-path="url(#CLIPPATH_140)"  >
+<clipPath id="CLIPPATH_140" >
+	<rect transform="matrix(1 0 0 1 0 -12.43)" id="clip0_8_532" x="-32" y="-32" rx="0" ry="0" width="64" height="64" />
+</clipPath>
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,213,79); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-32, -44.43)" d="M 60.1369 31.4008 C 57.7566 30.5043 55.2999 29.8201 53.0554 29.2098 C 32.1866 25.8481 35.0336 40.6217 22.3102 45.4446 C 17.333 46.7365 11.8006 44.0518 6.96775 45.7657 C 5.72075 46.3277 4.694 47.0081 3.86325 47.7741 L 3.86325 59.6367 C 3.86325 59.9128 4.08713 60.1367 4.36325 60.1367 L 59.6369 60.1367 C 59.913 60.1367 60.1369 59.9128 60.1369 59.6367 L 60.1369 31.4008 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 26.21 13.13)" clip-path="url(#CLIPPATH_141)"  >
+<clipPath id="CLIPPATH_141" >
+	<rect transform="matrix(1 0 0 1 -26.21 -13.13)" id="clip0_8_532" x="-32" y="-32" rx="0" ry="0" width="64" height="64" />
+</clipPath>
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,195,40); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-58.21, -45.13)" d="M 56.2736 30.1177 L 56.2736 60.1367 L 59.6367 60.1367 C 59.9129 60.1367 60.1367 59.9129 60.1367 59.6367 L 60.1367 31.4009 C 58.856 30.9184 57.5539 30.4987 56.2736 30.1177 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -11.73 -5.2)" clip-path="url(#CLIPPATH_142)"  >
+<clipPath id="CLIPPATH_142" >
+	<rect transform="matrix(1 0 0 1 11.73 5.2)" id="clip0_8_532" x="-32" y="-32" rx="0" ry="0" width="64" height="64" />
+</clipPath>
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(156,204,101); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-20.27, -26.8)" d="M 3.86312 19.9446 L 3.86312 33.8588 C 6.30375 33.6711 8.779 33.8841 11.2139 34.0136 C 26.945 35.559 25.4517 24.6803 36.6765 19.4446 L 4.36312 19.4446 C 4.087 19.4446 3.86312 19.6685 3.86312 19.9446 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -7.63 -5.2)" clip-path="url(#CLIPPATH_143)"  >
+<clipPath id="CLIPPATH_143" >
+	<rect transform="matrix(1 0 0 1 7.63 5.2)" id="clip0_8_532" x="-32" y="-32" rx="0" ry="0" width="64" height="64" />
+</clipPath>
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(139,195,74); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-24.37, -26.8)" d="M 32.8134 19.4446 C 22.859 24.0878 22.905 33.1674 12.0718 34.0858 C 26.8921 35.1551 25.6605 24.583 36.6766 19.4446 L 32.8134 19.4446 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 11.78 -12.68)" clip-path="url(#CLIPPATH_144)"  >
+<clipPath id="CLIPPATH_144" >
+	<rect transform="matrix(1 0 0 1 -11.78 12.68)" id="clip0_8_532" x="-32" y="-32" rx="0" ry="0" width="64" height="64" />
+</clipPath>
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(247,86,50); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-43.78, -19.32)" d="M 57.8122 14.1175 C 57.8122 22.7003 51.816 24.8308 48.8921 29.9848 C 45.9682 35.1388 46.1165 38.6319 43.776 38.6319 C 41.5196 38.6319 41.5172 34.8823 38.6599 29.9848 C 35.5897 24.7225 29.7397 22.7003 29.7397 14.1175 C 29.7399 6.32063 36.0241 0 43.7761 0 C 51.5281 0 57.8122 6.32063 57.8122 14.1175 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 17.83 -12.68)" clip-path="url(#CLIPPATH_145)"  >
+<clipPath id="CLIPPATH_145" >
+	<rect transform="matrix(1 0 0 1 -17.83 12.68)" id="clip0_8_532" x="-32" y="-32" rx="0" ry="0" width="64" height="64" />
+</clipPath>
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(227,54,41); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-49.83, -19.32)" d="M 43.7761 0 C 43.1206 0 42.4761 0.04625 41.8445 0.133625 C 48.6822 1.08037 53.9491 6.97975 53.9491 14.1174 C 53.9491 22.7001 47.9529 24.8306 45.029 29.9846 C 43.266 33.0921 42.6197 35.5942 41.8716 37.0926 C 42.3662 38.067 42.9019 38.6317 43.7761 38.6317 C 46.1165 38.6317 45.9682 35.1386 48.8921 29.9846 C 51.8161 24.8306 57.8122 22.7001 57.8122 14.1174 C 57.8122 6.32063 51.5281 0 43.7761 0 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 11.78 10.87)" clip-path="url(#CLIPPATH_146)"  >
+<clipPath id="CLIPPATH_146" >
+	<rect transform="matrix(1 0 0 1 -11.78 -10.87)" id="clip0_8_532" x="-32" y="-32" rx="0" ry="0" width="64" height="64" />
+</clipPath>
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(84,110,122); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-43.78, -42.87)" d="M 45.1019 42.8714 L 46.4925 41.4808 C 46.8586 41.1147 46.8586 40.5211 46.4924 40.155 C 46.1264 39.789 45.5328 39.7889 45.1666 40.1551 L 43.7761 41.5458 L 42.3856 40.1551 C 42.0195 39.7889 41.4259 39.789 41.0599 40.155 C 40.6936 40.5213 40.6936 41.1148 41.0597 41.4808 L 42.4504 42.8714 L 41.0597 44.262 C 40.6936 44.6282 40.6936 45.2216 41.0599 45.5878 C 41.2429 45.7708 41.4829 45.8623 41.7228 45.8623 C 41.9626 45.8623 42.2026 45.7708 42.3857 45.5876 L 43.7762 44.197 L 45.1668 45.5876 C 45.3499 45.7708 45.5897 45.8623 45.8297 45.8623 C 46.0696 45.8623 46.3096 45.7708 46.4926 45.5878 C 46.8589 45.2215 46.8589 44.628 46.4927 44.262 L 45.1019 42.8714 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 11.79 16.38)" clip-path="url(#CLIPPATH_147)"  >
+<clipPath id="CLIPPATH_147" >
+	<rect transform="matrix(1 0 0 1 -11.79 -16.38)" id="clip0_8_532" x="-32" y="-32" rx="0" ry="0" width="64" height="64" />
+</clipPath>
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(84,110,122); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-43.79, -48.38)" d="M 44.4174 47.2303 C 43.9627 46.9826 43.3934 47.1506 43.1457 47.6054 C 43.0276 47.8224 42.9092 48.0357 42.7899 48.2448 C 42.5331 48.6944 42.6896 49.2671 43.1394 49.5237 C 43.286 49.6073 43.4456 49.6471 43.6032 49.6471 C 43.9287 49.6471 44.2454 49.4773 44.4184 49.1742 C 44.5439 48.9543 44.6682 48.7301 44.7925 48.5018 C 45.04 48.0472 44.8721 47.4778 44.4174 47.2303 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -10.32 20.42)" clip-path="url(#CLIPPATH_148)"  >
+<clipPath id="CLIPPATH_148" >
+	<rect transform="matrix(1 0 0 1 10.32 -20.42)" id="clip0_8_532" x="-32" y="-32" rx="0" ry="0" width="64" height="64" />
+</clipPath>
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(84,110,122); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-21.68, -52.42)" d="M 22.3966 51.4746 C 21.9149 51.4705 21.4256 51.4761 20.937 51.4926 C 20.4195 51.5104 20.0142 51.944 20.0319 52.4615 C 20.0492 52.9682 20.4652 53.3671 20.9682 53.3671 C 20.979 53.3671 20.9899 53.367 21.0007 53.3666 C 21.4622 53.3509 21.924 53.3454 22.379 53.3496 L 22.388 53.3496 C 22.9015 53.3496 23.3204 52.9355 23.3252 52.4209 C 23.3301 51.9031 22.9142 51.4795 22.3966 51.4746 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -15.27 20.86)" clip-path="url(#CLIPPATH_149)"  >
+<clipPath id="CLIPPATH_149" >
+	<rect transform="matrix(1 0 0 1 15.27 -20.86)" id="clip0_8_532" x="-32" y="-32" rx="0" ry="0" width="64" height="64" />
+</clipPath>
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(84,110,122); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-16.73, -52.86)" d="M 17.3006 51.8159 C 16.8146 51.8863 16.3291 51.9679 15.8575 52.0584 C 15.349 52.156 15.0161 52.6475 15.1138 53.1559 C 15.1999 53.6047 15.5928 53.9167 16.0333 53.9167 C 16.092 53.9167 16.1515 53.9112 16.2113 53.8997 C 16.6548 53.8144 17.1115 53.7377 17.5691 53.6715 C 18.0816 53.5974 18.4367 53.1219 18.3628 52.6094 C 18.2886 52.097 17.8126 51.741 17.3006 51.8159 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -20.07 22.11)" clip-path="url(#CLIPPATH_150)"  >
+<clipPath id="CLIPPATH_150" >
+	<rect transform="matrix(1 0 0 1 20.07 -22.11)" id="clip0_8_532" x="-32" y="-32" rx="0" ry="0" width="64" height="64" />
+</clipPath>
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(84,110,122); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-11.93, -54.11)" d="M 12.3054 52.9745 C 11.8302 53.1317 11.3634 53.302 10.9175 53.4809 C 10.4369 53.6735 10.2035 54.2192 10.3962 54.6999 C 10.5431 55.0661 10.8949 55.2887 11.2666 55.2887 C 11.3829 55.2887 11.5009 55.267 11.6152 55.2211 C 12.0254 55.0567 12.4559 54.8997 12.8944 54.7546 C 13.386 54.592 13.6525 54.0616 13.4899 53.57 C 13.3274 53.0786 12.7975 52.8117 12.3054 52.9745 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 4.47 21.87)" clip-path="url(#CLIPPATH_151)"  >
+<clipPath id="CLIPPATH_151" >
+	<rect transform="matrix(1 0 0 1 -4.47 -21.87)" id="clip0_8_532" x="-32" y="-32" rx="0" ry="0" width="64" height="64" />
+</clipPath>
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(84,110,122); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-36.47, -53.87)" d="M 37.0082 52.8662 C 36.603 52.9379 36.1671 52.9863 35.713 53.0099 C 35.1959 53.0371 34.7986 53.4779 34.8255 53.9951 C 34.8516 54.4956 35.2656 54.8837 35.7609 54.8837 C 35.7774 54.8837 35.794 54.8833 35.8105 54.8824 C 36.3414 54.8547 36.8544 54.7974 37.335 54.7123 C 37.8449 54.6221 38.185 54.1356 38.0946 53.6258 C 38.0046 53.1159 37.5182 52.7753 37.0082 52.8662 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 8.99 20.03)" clip-path="url(#CLIPPATH_152)"  >
+<clipPath id="CLIPPATH_152" >
+	<rect transform="matrix(1 0 0 1 -8.99 -20.03)" id="clip0_8_532" x="-32" y="-32" rx="0" ry="0" width="64" height="64" />
+</clipPath>
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(84,110,122); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-40.99, -52.03)" d="M 40.8651 50.9138 C 40.5594 51.2204 40.2469 51.4826 39.9097 51.7156 C 39.4839 52.01 39.3774 52.594 39.6719 53.02 C 39.8539 53.2831 40.1464 53.4244 40.4439 53.4244 C 40.6277 53.4244 40.8135 53.3704 40.9762 53.2579 C 41.4016 52.9636 41.8109 52.6206 42.1925 52.2383 C 42.5581 51.8716 42.5575 51.278 42.191 50.9124 C 41.8244 50.5465 41.2309 50.5473 40.8651 50.9138 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -0.48 21.66)" clip-path="url(#CLIPPATH_153)"  >
+<clipPath id="CLIPPATH_153" >
+	<rect transform="matrix(1 0 0 1 0.48 -21.66)" id="clip0_8_532" x="-32" y="-32" rx="0" ry="0" width="64" height="64" />
+</clipPath>
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(84,110,122); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-31.52, -53.66)" d="M 32.3415 52.8366 C 31.919 52.7825 31.4699 52.7165 30.9687 52.6349 C 30.4576 52.5516 29.976 52.8984 29.8927 53.4094 C 29.8095 53.9204 30.1561 54.4021 30.6672 54.4854 C 31.1897 54.5706 31.6595 54.6395 32.1035 54.6964 C 32.1439 54.7015 32.184 54.7041 32.2237 54.7041 C 32.6885 54.7041 33.0919 54.3586 33.1525 53.8855 C 33.2181 53.3722 32.8552 52.9025 32.3415 52.8366 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -5.38 20.82)" clip-path="url(#CLIPPATH_154)"  >
+<clipPath id="CLIPPATH_154" >
+	<rect transform="matrix(1 0 0 1 5.38 -20.82)" id="clip0_8_532" x="-32" y="-32" rx="0" ry="0" width="64" height="64" />
+</clipPath>
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(84,110,122); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-26.62, -52.82)" d="M 27.4851 52.0143 C 26.9486 51.9199 26.483 51.8431 26.0615 51.7794 C 25.5516 51.7024 25.0717 52.0544 24.9946 52.5666 C 24.9174 53.0786 25.2697 53.5562 25.7817 53.6334 C 26.1879 53.6947 26.6386 53.7692 27.1599 53.8609 C 27.2149 53.8706 27.2696 53.8752 27.3236 53.8752 C 27.7701 53.8752 28.1656 53.5551 28.2459 53.1002 C 28.3356 52.5903 27.995 52.1042 27.4851 52.0143 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -24.19 24.18)" clip-path="url(#CLIPPATH_155)"  >
+<clipPath id="CLIPPATH_155" >
+	<rect transform="matrix(1 0 0 1 24.19 -24.18)" id="clip0_8_532" x="-32" y="-32" rx="0" ry="0" width="64" height="64" />
+</clipPath>
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(84,110,122); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-7.81, -56.18)" d="M 7.60112 55.1839 C 7.37562 55.3314 7.1545 55.4845 6.9435 55.6393 C 6.526 55.9454 6.43575 56.5321 6.742 56.9496 C 6.92575 57.2001 7.21025 57.3328 7.49875 57.3328 C 7.69112 57.3328 7.88537 57.2736 8.0525 57.1511 C 8.23662 57.0161 8.43012 56.8821 8.62787 56.7526 C 9.06112 56.4691 9.18262 55.8881 8.899 55.4549 C 8.6155 55.0218 8.03412 54.9001 7.60112 55.1839 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 11.78 -17.97)" clip-path="url(#CLIPPATH_156)"  >
+<clipPath id="CLIPPATH_156" >
+	<rect transform="matrix(1 0 0 1 -11.78 17.97)" id="clip0_8_532" x="-32" y="-32" rx="0" ry="0" width="64" height="64" />
+</clipPath>
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(243,243,243); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-43.78, -14.03)" d="M 43.7761 20.4252 C 47.3083 20.4252 50.1716 17.5618 50.1716 14.0297 C 50.1716 10.4975 47.3083 7.63416 43.7761 7.63416 C 40.244 7.63416 37.3806 10.4975 37.3806 14.0297 C 37.3806 17.5618 40.244 20.4252 43.7761 20.4252 Z" stroke-linecap="round" />
+</g>
+</g>
+</g>
+</svg>
